@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Rachael Rolake Olaosun</h1>
-  <p><strong>Software Engineer • UI/UX-minded • Community-driven</strong></p>
+  <p><strong>Software Engineer • UI-focused • Problem solver</strong></p>
 </div>
 
 <p align="center">
