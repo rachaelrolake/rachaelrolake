@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=rachaelrolake&label=Profile%20views&color=0e75b6&style=flat)
 <div align="center">
   <h1>Hi, I'm Rachael Rolake Olaosun</h1>
   <p><strong>Software Engineer • UI-focused • Problem solver</strong></p>
