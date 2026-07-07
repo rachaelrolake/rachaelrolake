@@ -1,14 +1,14 @@
 <div align="center">
-  <h1>Hi, I'm Eachael Rolake Olaosun</h1>
+  <h1>Hi, I'm Rachael Rolake Olaosun</h1>
   <p><strong>Software Engineer • UI/UX-minded • Community-driven</strong></p>
 </div>
 
 <p align="center">
   <a href="mailto:rachaelrolake@gmail.com">
-    <img src="https://img.shields.io/badge/Email-dnwakaiche%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-rachaelrolakee%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/rachael-olaosun">
-    <img src="https://img.shields.io/badge/LinkedIn-onyekachi--nwakaiche-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-rachael--olaosun-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://yourportfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
