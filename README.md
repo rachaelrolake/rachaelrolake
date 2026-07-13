@@ -1,7 +1,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=rachaelrolake&label=Profile%20views&color=0e75b6&style=flat)
 <div align="center">
   <h1>Hi, I'm Rachael Rolake Olaosun</h1>
-  <p><strong>Software Engineer • UI-focused • Problem solver</strong></p>
+  <p><strong>Software Engineering Student • Full-Stack Developer • UI-focused</strong></p>
 </div>
 
 <p align="center">
@@ -20,30 +20,57 @@
 
 ### 🚀 Mission
 
-I build high-quality, user-centric software that solves real problems and meets business goals. I'm passionate about **HealthTech, FinTech, and E-commerce**, with a focus on solutions that can scale within African contexts and beyond.
 
-> "Software that ships, teaches, and impacts communities."
+My mission is to create digital products that combine technology, creativity, and problem-solving. As a Software Engineering student, I’m passionate about building full-stack applications that are not only functional but also intuitive and user-friendly.
+
+I’m continuously improving my skills in frontend development, backend systems, and product development while creating solutions that bring ideas to life.
+
+> "Building software with purpose and impact."
 
 ---
 
 ### ✨ What I'm Working On
 
-- **🟣 ALX ProDev (Frontend)** — sharpening production UX, accessibility, and performance.
-- **🟣 AI/ML Learning Path** — classical ML → MLOps fundamentals.
-- **🟣 Flagship Project: Hope4PKD PI App (concept)**  
-  A patient-first web app for booking, triage, and continuity of care.
+- **🟣 Oriana Haircare (Frontend)** — Building a modern, responsive haircare website focused on elegant design, smooth user experience, accessibility, and performance.
+- **🟣 Cake Heaven** - A modern cake ordering and bakery management platform that makes it easy for customers to browse cakes, place custom orders, and track their purchases.
 
   **Core modules:**
-  - Onboarding & identity
-  - Appointment booking
-  - Triage questionnaire
-  - Care-team messaging
-  - Labs & results
-  - Payments
+  - Customer authentication
+  - Cake catalog & categories
+  - Custom cake ordering
+  - Shopping cart & checkout
+  - Secure online payments
+  - Customer reviews & contact
 
-  **Stack (planned):** Next.js • TypeScript • Tailwind • Node/Express • PostgreSQL/Prisma • Auth.js • Stripe/Paystack • Docker • CI/CD
+ **Stack:** Next.js • TypeScript • Tailwind CSS • Node.js • Express.js • PostgreSQL • Prisma • Paystack • Auth.js • CI/CD
 
 ---
+
+## 🧩 Skills & Tooling
+
+- **Languages:** Javascript, Python
+- **Frontend:** Next.js, Tailwind CSS, Bootstrap
+- **Backend(learning):** Node.js, Express.js, REST APIs, Webhooks
+- **Database (learning):** PostgreSQL, MySQL, MongoDB
+**Tools:** Git, GitHub, VS Code, Postman, Figma
+
+---
+## 🎓 Education & Certifications
+
+- **B.Sc Software Engineering** - Federal University Dutse (FUD)
+- **Frontend Web Development** - Steamledge Limited
+- **Frontend Web Development** - Africa Agility
+- **Angela Yu Full Stack Web Development Bootcamp** — Udemy (current)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rachaelrolake&show_icons=true&theme=radical" />
+</p>
+
+
 
 <div align="center">
   <em>Always open to new opportunities and collaborations!</em>
