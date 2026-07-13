@@ -63,7 +63,10 @@ I’m continuously improving my skills in frontend development, backend systems,
 - **Angela Yu Full Stack Web Development Bootcamp** — Udemy (current)
 
 ---
-
+## 📬 Contact Me
+- **Email:** [rachaelrolake@gmail.com](mailto:rachaelrolake@gmail.com)
+- **LinkedIn:** [Rachael Olaosun]("https://linkedin.com/in/rachael-olaosun)
+- **Portfolio**
 
 
 <div align="center">
