@@ -64,12 +64,6 @@ I’m continuously improving my skills in frontend development, backend systems,
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rachaelrolake&show_icons=true&theme=radical" />
-</p>
-
 
 
 <div align="center">
